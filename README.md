@@ -1,6 +1,4 @@
-## ✅ Final `README.md`
 
-````markdown
 # 🧠 Smart Assistant for Research Summarization
 
 A GenAI-powered assistant that summarizes long research documents and answers questions from them using **LangChain**, **OpenAI GPT-3.5**, **FAISS**, and **Streamlit**.
